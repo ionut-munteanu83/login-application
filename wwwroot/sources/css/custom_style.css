@@ -1,0 +1,15 @@
+.form-label-group label.error{
+	font-size: 12px;
+	color: #721c24;
+}
+.form-label-group .form-check label.error{
+	position: absolute;
+	top: -15px;
+	left: 0px;
+}
+a.btn{
+	color:#fff !important;
+}
+.hidden{
+	display: none;
+}
